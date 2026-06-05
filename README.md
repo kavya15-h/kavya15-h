@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=FF4F9A&center=true&vCenter=true&width=900&lines=Yash+❤️+Kavya;Forever+Together+💖;Love+%7C+Trust+%7C+Happiness" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=2500&color=00C2FF&center=true&vCenter=true&width=900&lines=Code+is+poetry+in+logic;First,+solve+the+problem,+then+write+the+code;Clean+code+always+wins;Talk+is+cheap.+Show+me+the+code;Programs+must+be+written+for+people+to+read" />
 </p>
 
 ---
