@@ -146,7 +146,7 @@ Passionate about building efficient, secure, and scalable applications while con
 ---
 
 ## 📫 Connect With Me
-📧 Email: kavya15-h@gmail.com  
+📧 Email: kavyakavyah15@gmail.com  
 💻 GitHub: https://github.com/kavya15-h  
 
 ---
