@@ -14,13 +14,13 @@ Currently strengthening expertise in **Java, Spring Boot, and Full-Stack Develop
 ---
 
 ## 🎓 Education
-**B.E in Computer Science Engineering (2021 – 2025)**  
+**B.E in Computer Science Engineering (2023 – 2027)**  
 📍 India  
 
 ---
 
 ## 📧 Contact
-📩 Email: kavya15-h@gmail.com  
+📩 Email: kavyakavyah15@gmail.com  
 🌐 GitHub: https://github.com/kavya15-h  
 
 ---
